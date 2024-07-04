@@ -38,7 +38,7 @@ Welcome to my portfolio! I am a graduate with a passion for database engineering
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or email me at [youremail@example.com]. I am always open to discussing new opportunities and collaborations.
+Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/derrick-muindi-a09777179) or email me at [nziokadmuindi@gmail.com]. I am always open to discussing new opportunities and collaborations.
 
 ---
 
